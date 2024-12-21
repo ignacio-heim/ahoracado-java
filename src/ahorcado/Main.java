@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class Main {
 
 	public static void main(String[] args) {
-		
+		// Clase principal del programa
 		Eleccionpalabra elec = new Eleccionpalabra();
 		Matriz creacionMatriz = new Matriz();
 		Imagenes img = new Imagenes();
